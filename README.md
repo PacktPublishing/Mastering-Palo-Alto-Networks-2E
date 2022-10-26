@@ -17,3 +17,7 @@ By the end of this book, for your configuration setup you will instinctively kno
 - Gain insight into encrypted sessions by setting up SSL decryption
 - Troubleshoot common issues, and deep-dive into flow analytics
 - Configure the GlobalProtect VPN for remote workers as well as site-to-site VPN
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803241418">https://packt.link/free-ebook/9781803241418 </a> </p>
